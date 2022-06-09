@@ -25,8 +25,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "ihsanlame@outlook.com"
-          git config --local user.name "ihsanlame"
+          git config --local user.email "renataropes@outlook.com"
+          git config --local user.name "renataropes"
           git add -A
           
           arr[0]="Sync... Machine"
